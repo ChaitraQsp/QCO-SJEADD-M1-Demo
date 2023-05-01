@@ -7,6 +7,8 @@ public class Sample {
 		
 		System.out.println("Sample By FW dev");
 		
+		System.out.println("Hi");
+		
 	}
 
 }
